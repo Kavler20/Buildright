@@ -131,6 +131,10 @@ p{
     flex-direction: row;
     gap: 20px;
     width: 100%;
+    padding: 40px 20px;
+    
+    
+    
 }
 
 .images article {
